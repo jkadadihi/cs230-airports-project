@@ -6,9 +6,9 @@ import seaborn as sns
 
 """
 Name: Jean Kadadihi
-CS230: Section 
+CS230: Section 7
 Data: New England Airports
-URL: (Add your Streamlit Cloud link here if deployed)
+URL: https://cs230-airports-project-fmjwakyv9s8t9ith2ot4pn.streamlit.app/
 
 Description:  
 This app lets users explore airport data from New England (MA, CT, RI, NH, VT, ME). It includes data filtering by state, elevation, and airport type. Charts, tables, and interactive maps allow visual analysis. The app demonstrates Streamlit widgets, pandas queries, matplotlib/seaborn charts, and a custom PyDeck map.
